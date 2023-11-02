@@ -101,3 +101,21 @@ int main()
     } // end while loop
     return 0;
 }
+
+
+
+/*
+Step 1 : g++ k_mean.cpp
+Step 2 :./a.out
+How many numbers you want to enter: 9
+Enter value of k: 2
+Enter Number 1: 2
+Enter Number 2: 4
+Enter Number 3: 10
+Enter Number 4: 12
+Enter Number 5: 3
+Enter Number 6: 20 
+Enter Number 7: 30
+Enter Number 8: 11
+Enter Number 9: 25
+*/
